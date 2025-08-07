@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+div{
+    background-color: rgb(112, 234, 234);
+    height: 100px;
+    width: 800px;
+    padding: 0.5cm;
+    padding-bottom: 1cm;
+    margin: 0.5cm;
+}
+div p{
+    color: bisque;
+    background-color: black;
+    margin: 0.1cm;
+    padding:0.2cm;
+    padding-bottom: 0.3cm;
+}
+.div3{
+    background-color: rgb(61, 240, 16);
+    width: 40%;
+    height: 10%;
+}
+.p1{                                /*Selecting a class */
+    color: blueviolet;
+    width: 300px;
+    text-align: center;
+    padding-top: 0.3cm;
+    padding-bottom: 0.3cm;
+}
+
+#p1{              /*Selecting a id */
+    color: bisque;
+    background-color: black;
+    width: 300px;
+    padding: 0.5cm;
+    padding-bottom: 0.5cm;
+    margin-left: 5cm;
+    text-align: center;
+    
+}
+.two-div{
+    display: flex;
+    background-color: white;
+}
+.div1, .div2{
+    height: 10%;
+    width: 40%;
+    color: rgb(10, 238, 226);
+    background: rgb(36, 35, 37);
+    text-align: center;
+}
