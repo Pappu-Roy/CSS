@@ -1,0 +1,14 @@
+.p1{
+    color: aqua;
+    background-color: rgba(4, 0, 15, 0.832);
+    width: 50%;
+}
+#div1{
+    color: #000000ae;           
+    width: 50%;
+    text-align: justify;
+    background-color: rgba(209, 9, 249, 0.5);
+    padding: 10px;
+    font-size: large;
+}
+
