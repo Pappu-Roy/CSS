@@ -1,0 +1,30 @@
+body{
+    background: url('map.png');
+    background-repeat: no-repeat;
+    background-position: 70% 50%;
+    background-attachment: fixed;
+}
+h2{
+    color: blueviolet;
+}
+div{
+    color: rgb(240, 176, 245);
+    width: 50%;
+    height: 50%;
+    background:rgb(0, 0, 0);
+    margin: 10px;
+    padding: 5px;
+    text-align: justify;
+}
+.div1{
+    color: aqua;
+}
+#div-group{
+    display: flex;
+    width: 50%;
+    background-color:navajowhite;
+}
+.div2{
+    padding: 5px;
+    background: rgb(12, 11, 11);
+}
