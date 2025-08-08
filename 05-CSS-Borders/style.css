@@ -1,0 +1,34 @@
+h2{
+    color: blueviolet;
+    width: fit-content;
+    padding: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(247, 5, 187);  
+    border-width: 5px;
+}
+h3{
+    color: coral;
+    font-size: 25px;
+    padding: 5px;
+    width: fit-content;
+    border-left: 5px solid blueviolet;
+    border-right: 5px solid greenyellow;
+    border-top: 5px solid orangered;
+    border-bottom: 5px dashed blue;
+    border-radius: 5px;
+}
+h4{
+    color: blueviolet;
+    font-size: 30px;
+    width: fit-content;
+    padding: 5px;
+    border-style: inset;
+    border-width: 5px;
+    border-top-color: rgb(55, 255, 0);
+    border-bottom-color: orangered;
+    border-bottom-width: 10px;
+    border-right-color: chartreuse;
+    border-left-color: rgb(0, 0, 0);
+    border-left-width: 10px;
+}
