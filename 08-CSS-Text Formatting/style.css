@@ -1,0 +1,52 @@
+h2{
+    color: blueviolet;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 2px 0px 5px rgb(98, 255, 0); 
+}
+.div1{
+    background-color: bisque;
+    padding: 5px;
+    margin: 10px;
+    text-align: justify;
+}
+.div2{
+    background-color: rgb(208, 243, 155);
+    padding: 5px;
+    margin: 10px;
+    text-indent: 20px;            /* space of first line of text */
+    text-align-last: right;
+}
+.div3{
+    background-color: rgb(215, 185, 245);
+    padding: 5px;
+    margin: 10px;
+    text-transform: lowercase;
+    line-height: 30px;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+    margin-left: 48%;
+    font-size: 20px;
+
+}
+.p1{
+    color: chocolate;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+}
+.p2{
+    color: blueviolet;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    text-shadow: -2px -2px 5px orangered; 
+    /*text-shadow: horizontal-offset vertical-offset blur-radius color;
+    2px → horizontal offset (2px movement left or right).
+    2px → vertical offset (2px movement up or down).
+    2px → blur radius (Add 2px blur).
+    orangered → shadow color. */
+}
