@@ -1,4 +1,14 @@
 h2{
     color: blueviolet;
     text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+i{
+    font-size: 100px;
+}
+div{
+    display: flex;
+    margin-bottom: 50px;
 }
