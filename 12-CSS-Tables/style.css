@@ -1,0 +1,39 @@
+h1{
+    color: blueviolet;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+div{
+    margin-top: 50px;
+}
+table,th,td{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    border-collapse: collapse;
+    border: 3px solid rgb(160, 160, 246);
+}
+th{
+    color: rgb(255, 145, 0);
+    background-color:rgb(49, 8, 88);
+    height: 30px;
+}
+td{
+    padding: 8px;
+    width: 100px;
+    background-color: rgb(223, 184, 249);
+}
+tr:hover th{
+    background-color: rgb(0, 0, 0);
+}
+tr:hover td{
+    background-color: rgb(255, 94, 0);
+}
+.table2{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow-x: auto;
+}
